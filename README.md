@@ -6,10 +6,8 @@ It helps you quickly understand long reads by displaying a concise, easy-to-read
 ---
 
 ## 🚀 Features
-- 📰 Summarizes articles or selected text instantly.  
+- 📰 Summarizes articles .  
 - ⚡ Displays AI-generated summaries in a clean popup.  
-- 💾 Stores recent summaries for quick access.  
-- 🌐 Works on almost any webpage.  
 - 🧩 Simple UI and lightweight design.
 
 ---
